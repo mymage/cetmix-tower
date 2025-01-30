@@ -15,13 +15,13 @@ It is designed for versatility across different operating systems and software e
 
 # Why Cetmix Tower?
 
-- **Open Source:** [Cetmix Tower](http://cetmix.com/tower) is distributed under the AGPL-3 license
-- **Odoo Integration:** Benefit from [Odoo](https:/odoo.com) ecosystem for server management tasks, like deploying servers in response to specific Odoo-triggered events
-- **Extendability:** Build your own [Odoo](https:/odoo.com) modules using [Cetmix Tower](http://cetmix.com/tower) to implement your custom features
+- **Easy to use:** Regular users can perform actions directly from the Odoo web interface
+- **Flexible and configurable:** Technical people can create complex configurations and build powerful automation scenarios using configuration variables and flight plans
+- **Odoo powered:** Build everything directly in Odoo, integrate with Odoo automation seamlessly
 - **Beyond Odoo:** While optimized for Odoo, Cetmix Tower can manage virtually any instance
-- **Flexibility:** Use Cetmix Tower alongside other management methods without restriction, ensuring you're not limited to a single vendor
-- **Self-Hosting:** Deploy Cetmix Tower on your own infrastructure for full control over your server management.
-- **Broad Compatibility:** Execute any software that's manageable via shell commands or API. From Docker or Kubernetes to direct OS package installations
+- **No techology boundaries:** Docker? Kubernetes? Or maybe just bare shell scipts? You can use what you like
+- **Self hosted:** You can run Cetmix Tower directly on your own server
+- **Open Source:** [Cetmix Tower](http://cetmix.com/tower) is distributed under the AGPL-3 license
 
 # Server Management
 
